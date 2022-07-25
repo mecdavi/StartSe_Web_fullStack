@@ -1,0 +1,23 @@
+{
+  "name": "Modulo_10-Nodejs",
+  "version": "1.0.0",
+  "description": "Bootcamp start.se de desencolvimento web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mecdavi/StartSe_Web_fullStack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mecdavi/StartSe_Web_fullStack/issues"
+  },
+  "homepage": "https://github.com/mecdavi/StartSe_Web_fullStack#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.8.0"
+  }
+}
